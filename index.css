@@ -277,6 +277,10 @@ section {
         align-items: center;
         justify-content: center;
       }
+          .main{
+
+    background-attachment: ;
+}
       }
       @media(max-width:641px){
         body{

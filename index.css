@@ -236,6 +236,7 @@ section {
       .footer-div{
         display: flex;
         justify-content: space-between;
+        flex-wrap: wrap;
       }
       .copyright span{
         color:white ;
@@ -244,6 +245,8 @@ section {
         color: rgb(162, 4, 4);
         font-size: 1.3em;
         font-weight: 600;
+         margin-right: 8px;
+         
       }
       .footer-icons a{
         padding-right: 10px;
@@ -277,10 +280,7 @@ section {
         align-items: center;
         justify-content: center;
       }
-/*           .main{
 
-    background-attachment: ;
-} */
       }
       @media(max-width:641px){
         body{
